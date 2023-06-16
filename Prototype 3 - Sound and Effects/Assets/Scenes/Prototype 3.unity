@@ -547,6 +547,7 @@ MonoBehaviour:
   jumpForce: 10
   gravityModifier: 2
   isOnGround: 1
+  gameOver: 0
 --- !u!65 &933986628
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -690,7 +691,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7273986709685874230, guid: 312362e9c5e7fdd40915c6e4389c432e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15
+      value: 24.73
       objectReference: {fileID: 0}
     - target: {fileID: 7273986709685874230, guid: 312362e9c5e7fdd40915c6e4389c432e, type: 3}
       propertyPath: m_LocalPosition.y
